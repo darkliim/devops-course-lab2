@@ -1,2 +1,2 @@
 # devops-course-lab2
-this is training test, I'm learning git
+Hello from the member1
