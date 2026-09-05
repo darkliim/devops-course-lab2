@@ -1,2 +1,2 @@
 # devops-course-lab2
-Hello from the member2
+line for the file A
